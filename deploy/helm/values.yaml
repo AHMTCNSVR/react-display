@@ -5,8 +5,8 @@
 replicaCount: 2
 
 image:
-  repository: anaisurlichs/react-example
-  tag: 0.0.1
+  repository: ahmtcnsvr/reactapp
+  tag: 0.1
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
